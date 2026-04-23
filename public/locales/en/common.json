@@ -1,0 +1,248 @@
+{
+  "common": {
+    "appName": "BiodataForge",
+    "tagline": "Create Beautiful Marriage Biodata",
+    "next": "Next",
+    "back": "Back",
+    "save": "Save",
+    "cancel": "Cancel",
+    "required": "Required",
+    "optional": "Optional",
+    "add": "Add",
+    "remove": "Remove",
+    "edit": "Edit",
+    "clear": "Clear",
+    "preview": "Preview",
+    "loading": "Loading…",
+    "startFresh": "Start Fresh",
+    "startCreating": "Start Creating"
+  },
+  "landing": {
+    "hero": {
+      "title": "Create Your Perfect Marriage Biodata",
+      "subtitle": "Professional biodata in minutes — beautiful layouts, rich colors, bilingual support.",
+      "cta": "Start Creating",
+      "badge": "Free • No Account Required"
+    },
+    "features": {
+      "title": "Everything You Need",
+      "layouts": {
+        "title": "5 Beautiful Layouts",
+        "description": "From classic elegant to contemporary card — choose the style that tells your story."
+      },
+      "colors": {
+        "title": "Custom Color Palettes",
+        "description": "8 curated palettes or generate your own WCAG-compliant palette in one click."
+      },
+      "bilingual": {
+        "title": "English & Bengali",
+        "description": "Full bilingual support with proper Bengali numerals and typography."
+      },
+      "export": {
+        "title": "PDF & Word Export",
+        "description": "Download as print-ready PDF or editable Word document instantly."
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "step1": {
+        "label": "Fill Your Info",
+        "description": "Enter personal, family, and professional details."
+      },
+      "step2": {
+        "label": "Choose Design",
+        "description": "Pick a layout and color palette that suits you."
+      },
+      "step3": {
+        "label": "Export",
+        "description": "Download as PDF or DOCX — ready to share."
+      }
+    },
+    "cta": {
+      "title": "Ready to Create Your Biodata?",
+      "subtitle": "It takes less than 5 minutes. No account needed.",
+      "button": "Start Creating — It's Free"
+    }
+  },
+  "wizard": {
+    "step1": {
+      "title": "Your Information",
+      "personal": {
+        "sectionTitle": "Personal Information",
+        "fullName": "Full Name",
+        "dateOfBirth": "Date of Birth",
+        "placeOfBirth": "Place of Birth",
+        "nationality": "Nationality",
+        "religion": "Religion",
+        "maritalStatus": {
+          "label": "Marital Status",
+          "neverMarried": "Never Married",
+          "divorced": "Divorced",
+          "widowed": "Widowed"
+        },
+        "height": "Height",
+        "complexion": "Complexion",
+        "bloodGroup": "Blood Group"
+      },
+      "physical": {
+        "sectionTitle": "Physical Attributes",
+        "height": "Height",
+        "weight": "Weight",
+        "complexion": "Complexion",
+        "bloodGroup": "Blood Group"
+      },
+      "religious": {
+        "sectionTitle": "Religious Information",
+        "religion": "Religion",
+        "sect": "Sect",
+        "prayerHabit": "Prayer Habit"
+      },
+      "education": {
+        "sectionTitle": "Educational Background",
+        "degree": "Degree / Certificate",
+        "institution": "Institution",
+        "passingYear": "Passing Year",
+        "result": "Result / GPA",
+        "addEntry": "Add Education"
+      },
+      "professional": {
+        "sectionTitle": "Professional Information",
+        "title": "Job Title",
+        "organization": "Organization",
+        "duration": "Duration",
+        "income": "Monthly Income (Optional)",
+        "addEntry": "Add Job"
+      },
+      "family": {
+        "sectionTitle": "Family Information",
+        "fatherName": "Father's Name",
+        "fatherOccupation": "Father's Occupation",
+        "motherName": "Mother's Name",
+        "motherOccupation": "Mother's Occupation",
+        "brotherCount": "Number of Brothers",
+        "sisterCount": "Number of Sisters",
+        "familyType": {
+          "label": "Family Type",
+          "nuclear": "Nuclear",
+          "joint": "Joint"
+        },
+        "familyStatus": "Family Status",
+        "nativeDistrict": "Native Village / District",
+        "siblings": {
+          "sectionTitle": "Sibling Details",
+          "name": "Name",
+          "gender": "Gender",
+          "maritalStatus": "Marital Status",
+          "profession": "Profession",
+          "addSibling": "Add Sibling"
+        }
+      },
+      "contact": {
+        "sectionTitle": "Contact Information",
+        "phone": "Phone Number",
+        "email": "Email Address",
+        "presentAddress": "Present Address",
+        "permanentAddress": "Permanent Address"
+      },
+      "expectations": {
+        "sectionTitle": "Partner Preferences",
+        "ageRange": "Age Range",
+        "height": "Height",
+        "complexion": "Complexion",
+        "education": "Education",
+        "profession": "Profession",
+        "district": "District / Location",
+        "otherRequirements": "Other Requirements"
+      },
+      "photo": {
+        "sectionTitle": "Profile Photo",
+        "uploadPrompt": "Click to upload or drag and drop",
+        "supportedFormats": "JPG, PNG, WEBP up to 5MB",
+        "remove": "Remove Photo"
+      }
+    },
+    "step2": {
+      "title": "Customize Design",
+      "layouts": {
+        "title": "Choose Layout",
+        "L1": {
+          "name": "Classic Elegant",
+          "description": "Traditional centered layout with ornamental header"
+        },
+        "L2": {
+          "name": "Modern Minimal",
+          "description": "Clean left-aligned layout with subtle dividers"
+        },
+        "L3": {
+          "name": "Two Column Grid",
+          "description": "Side-by-side layout with photo on the left"
+        },
+        "L4": {
+          "name": "Royal Heritage",
+          "description": "Rich ornate borders inspired by traditional aesthetics"
+        },
+        "L5": {
+          "name": "Contemporary Card",
+          "description": "Card-based modular sections for a modern look"
+        }
+      },
+      "palettes": {
+        "title": "Color Palette",
+        "generate": "Generate Palette",
+        "roseGold": "Rose Gold Classic",
+        "royalTeal": "Royal Teal",
+        "vermillionIvory": "Vermillion & Ivory",
+        "deepMaroon": "Deep Maroon & Gold",
+        "sageBlush": "Sage & Blush",
+        "midnightBlue": "Midnight Blue",
+        "blushSlate": "Blush & Slate",
+        "terracottaSand": "Terracotta & Sand"
+      },
+      "fonts": {
+        "title": "Font Pairing",
+        "heritage": "Heritage",
+        "modern": "Modern",
+        "classic": "Classic"
+      },
+      "preview": {
+        "title": "Live Preview",
+        "expand": "Full Preview"
+      }
+    },
+    "step3": {
+      "title": "Review & Export",
+      "exportPDF": "Export as PDF",
+      "exportDOCX": "Export as Word",
+      "shareComingSoon": "Share (Coming Soon)",
+      "editSection": "Edit this section",
+      "previewTitle": "Biodata Preview",
+      "editInfo": "Edit Information",
+      "exporting": "Generating…",
+      "downloadReady": "Download started!",
+      "exportError": "Export failed. Try again.",
+      "pdfDesc": "A4 PDF · colors & fonts embedded",
+      "docxDesc": "Microsoft Word document"
+    }
+  },
+  "errors": {
+    "required": "This field is required",
+    "minChars": "Minimum {{count}} characters",
+    "mustBeAdult": "Must be 18 years or older",
+    "invalidEmail": "Invalid email address",
+    "storageUnavailable": "Storage is unavailable. Your progress won't be saved in this browser session.",
+    "exportFailed": "Export failed. Please try again.",
+    "imageTooLarge": "Image must be under 5MB",
+    "imageInvalidType": "Only JPG, PNG, and WEBP images are supported"
+  },
+  "toast": {
+    "restored": "Welcome back! Your previous data has been restored.",
+    "saved": "Progress saved",
+    "exportSuccess": "Your biodata has been downloaded.",
+    "exportError": "Export failed. Please try again.",
+    "cleared": "All data cleared."
+  },
+  "language": {
+    "en": "English",
+    "bn": "বাংলা"
+  }
+}

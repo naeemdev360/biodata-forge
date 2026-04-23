@@ -1,0 +1,248 @@
+{
+  "common": {
+    "appName": "বায়োডেটা ফোর্জ",
+    "tagline": "সুন্দর বিবাহ বায়োডেটা তৈরি করুন",
+    "next": "পরবর্তী",
+    "back": "পূর্ববর্তী",
+    "save": "সংরক্ষণ করুন",
+    "cancel": "বাতিল",
+    "required": "আবশ্যিক",
+    "optional": "ঐচ্ছিক",
+    "add": "যোগ করুন",
+    "remove": "মুছুন",
+    "edit": "সম্পাদনা",
+    "clear": "মুছে ফেলুন",
+    "preview": "প্রিভিউ",
+    "loading": "লোড হচ্ছে…",
+    "startFresh": "নতুন শুরু",
+    "startCreating": "তৈরি শুরু করুন"
+  },
+  "landing": {
+    "hero": {
+      "title": "আপনার পরিপূর্ণ বিবাহ বায়োডেটা তৈরি করুন",
+      "subtitle": "মিনিটের মধ্যে পেশাদার বায়োডেটা — সুন্দর লেআউট, সমৃদ্ধ রং, দ্বিভাষিক সমর্থন।",
+      "cta": "তৈরি শুরু করুন",
+      "badge": "বিনামূল্যে • কোনো একাউন্ট প্রয়োজন নেই"
+    },
+    "features": {
+      "title": "আপনার যা দরকার সব কিছু",
+      "layouts": {
+        "title": "৫টি সুন্দর লেআউট",
+        "description": "ক্লাসিক থেকে সমসাময়িক — আপনার গল্প বলার স্টাইল বেছে নিন।"
+      },
+      "colors": {
+        "title": "কাস্টম কালার প্যালেট",
+        "description": "৮টি কিউরেটেড প্যালেট বা এক ক্লিকে নিজস্ব WCAG-সম্মত প্যালেট তৈরি করুন।"
+      },
+      "bilingual": {
+        "title": "ইংরেজি ও বাংলা",
+        "description": "সঠিক বাংলা সংখ্যা ও টাইপোগ্রাফি সহ পূর্ণ দ্বিভাষিক সমর্থন।"
+      },
+      "export": {
+        "title": "PDF ও Word এক্সপোর্ট",
+        "description": "প্রিন্ট-রেডি PDF বা সম্পাদনযোগ্য Word ডকুমেন্ট হিসেবে তাৎক্ষণিকভাবে ডাউনলোড করুন।"
+      }
+    },
+    "howItWorks": {
+      "title": "কীভাবে কাজ করে",
+      "step1": {
+        "label": "তথ্য পূরণ করুন",
+        "description": "ব্যক্তিগত, পারিবারিক ও পেশাদার তথ্য দিন।"
+      },
+      "step2": {
+        "label": "ডিজাইন বেছে নিন",
+        "description": "আপনার পছন্দমতো লেআউট ও কালার প্যালেট বেছে নিন।"
+      },
+      "step3": {
+        "label": "এক্সপোর্ট করুন",
+        "description": "PDF বা DOCX হিসেবে ডাউনলোড করুন — শেয়ারের জন্য প্রস্তুত।"
+      }
+    },
+    "cta": {
+      "title": "আপনার বায়োডেটা তৈরি করতে প্রস্তুত?",
+      "subtitle": "মাত্র ৫ মিনিটেরও কম সময় লাগে। কোনো একাউন্ট প্রয়োজন নেই।",
+      "button": "বিনামূল্যে তৈরি শুরু করুন"
+    }
+  },
+  "wizard": {
+    "step1": {
+      "title": "আপনার তথ্য",
+      "personal": {
+        "sectionTitle": "ব্যক্তিগত তথ্য",
+        "fullName": "পূর্ণ নাম",
+        "dateOfBirth": "জন্ম তারিখ",
+        "placeOfBirth": "জন্মস্থান",
+        "nationality": "জাতীয়তা",
+        "religion": "ধর্ম",
+        "maritalStatus": {
+          "label": "বৈবাহিক অবস্থা",
+          "neverMarried": "অবিবাহিত",
+          "divorced": "তালাকপ্রাপ্ত",
+          "widowed": "বিধবা/বিপত্নীক"
+        },
+        "height": "উচ্চতা",
+        "complexion": "গায়ের রং",
+        "bloodGroup": "রক্তের গ্রুপ"
+      },
+      "physical": {
+        "sectionTitle": "শারীরিক বৈশিষ্ট্য",
+        "height": "উচ্চতা",
+        "weight": "ওজন",
+        "complexion": "গায়ের রং",
+        "bloodGroup": "রক্তের গ্রুপ"
+      },
+      "religious": {
+        "sectionTitle": "ধর্মীয় তথ্য",
+        "religion": "ধর্ম",
+        "sect": "মাজহাব/সম্প্রদায়",
+        "prayerHabit": "নামাজের অভ্যাস"
+      },
+      "education": {
+        "sectionTitle": "শিক্ষাগত যোগ্যতা",
+        "degree": "ডিগ্রি / সনদ",
+        "institution": "প্রতিষ্ঠান",
+        "passingYear": "পাসের সাল",
+        "result": "ফলাফল / GPA",
+        "addEntry": "শিক্ষা যোগ করুন"
+      },
+      "professional": {
+        "sectionTitle": "পেশাদার তথ্য",
+        "title": "পদবী",
+        "organization": "প্রতিষ্ঠান",
+        "duration": "মেয়াদ",
+        "income": "মাসিক আয় (ঐচ্ছিক)",
+        "addEntry": "চাকরি যোগ করুন"
+      },
+      "family": {
+        "sectionTitle": "পারিবারিক তথ্য",
+        "fatherName": "পিতার নাম",
+        "fatherOccupation": "পিতার পেশা",
+        "motherName": "মাতার নাম",
+        "motherOccupation": "মাতার পেশা",
+        "brotherCount": "ভাইয়ের সংখ্যা",
+        "sisterCount": "বোনের সংখ্যা",
+        "familyType": {
+          "label": "পরিবারের ধরন",
+          "nuclear": "একক পরিবার",
+          "joint": "যৌথ পরিবার"
+        },
+        "familyStatus": "পারিবারিক অবস্থা",
+        "nativeDistrict": "আদি গ্রাম / জেলা",
+        "siblings": {
+          "sectionTitle": "ভাই-বোনের বিবরণ",
+          "name": "নাম",
+          "gender": "লিঙ্গ",
+          "maritalStatus": "বৈবাহিক অবস্থা",
+          "profession": "পেশা",
+          "addSibling": "ভাই/বোন যোগ করুন"
+        }
+      },
+      "contact": {
+        "sectionTitle": "যোগাযোগের তথ্য",
+        "phone": "ফোন নম্বর",
+        "email": "ইমেইল ঠিকানা",
+        "presentAddress": "বর্তমান ঠিকানা",
+        "permanentAddress": "স্থায়ী ঠিকানা"
+      },
+      "expectations": {
+        "sectionTitle": "পাত্র/পাত্রীর প্রত্যাশা",
+        "ageRange": "বয়সের পরিসীমা",
+        "height": "উচ্চতা",
+        "complexion": "গায়ের রং",
+        "education": "শিক্ষা",
+        "profession": "পেশা",
+        "district": "জেলা / অবস্থান",
+        "otherRequirements": "অন্যান্য প্রয়োজনীয়তা"
+      },
+      "photo": {
+        "sectionTitle": "প্রোফাইল ছবি",
+        "uploadPrompt": "ক্লিক করুন বা টেনে এনে ছবি আপলোড করুন",
+        "supportedFormats": "JPG, PNG, WEBP — সর্বোচ্চ ৫MB",
+        "remove": "ছবি মুছুন"
+      }
+    },
+    "step2": {
+      "title": "ডিজাইন কাস্টমাইজ করুন",
+      "layouts": {
+        "title": "লেআউট বেছে নিন",
+        "L1": {
+          "name": "ক্লাসিক এলিগ্যান্ট",
+          "description": "অলঙ্করণ হেডার সহ ঐতিহ্যবাহী কেন্দ্রিক লেআউট"
+        },
+        "L2": {
+          "name": "মডার্ন মিনিমাল",
+          "description": "সূক্ষ্ম বিভাজক সহ পরিষ্কার বাম-সারিবদ্ধ লেআউট"
+        },
+        "L3": {
+          "name": "টু কলাম গ্রিড",
+          "description": "বাম পাশে ছবি সহ পাশাপাশি লেআউট"
+        },
+        "L4": {
+          "name": "রয়্যাল হেরিটেজ",
+          "description": "ঐতিহ্যবাহী নকশায় অনুপ্রাণিত সমৃদ্ধ বর্ডার লেআউট"
+        },
+        "L5": {
+          "name": "কনটেম্পোরারি কার্ড",
+          "description": "আধুনিক রূপের জন্য কার্ড-ভিত্তিক মডুলার বিভাগ"
+        }
+      },
+      "palettes": {
+        "title": "কালার প্যালেট",
+        "generate": "প্যালেট তৈরি করুন",
+        "roseGold": "রোজ গোল্ড ক্লাসিক",
+        "royalTeal": "রয়্যাল টিল",
+        "vermillionIvory": "ভার্মিলিয়ন ও আইভরি",
+        "deepMaroon": "ডিপ মেরুন ও গোল্ড",
+        "sageBlush": "সেজ ও ব্লাশ",
+        "midnightBlue": "মিডনাইট ব্লু",
+        "blushSlate": "ব্লাশ ও স্লেট",
+        "terracottaSand": "টেরাকোটা ও স্যান্ড"
+      },
+      "fonts": {
+        "title": "ফন্ট পেয়ারিং",
+        "heritage": "হেরিটেজ",
+        "modern": "মডার্ন",
+        "classic": "ক্লাসিক"
+      },
+      "preview": {
+        "title": "লাইভ প্রিভিউ",
+        "expand": "সম্পূর্ণ প্রিভিউ"
+      }
+    },
+    "step3": {
+      "title": "পর্যালোচনা ও এক্সপোর্ট",
+      "exportPDF": "PDF হিসেবে এক্সপোর্ট করুন",
+      "exportDOCX": "Word হিসেবে এক্সপোর্ট করুন",
+      "shareComingSoon": "শেয়ার (শীঘ্রই আসছে)",
+      "editSection": "এই বিভাগ সম্পাদনা করুন",
+      "previewTitle": "বায়োডেটা প্রিভিউ",
+      "editInfo": "তথ্য সম্পাদনা করুন",
+      "exporting": "তৈরি হচ্ছে…",
+      "downloadReady": "ডাউনলোড শুরু হয়েছে!",
+      "exportError": "এক্সপোর্ট ব্যর্থ হয়েছে। আবার চেষ্টা করুন।",
+      "pdfDesc": "A4 PDF · রঙ ও ফন্ট সহ",
+      "docxDesc": "Microsoft Word ডকুমেন্ট"
+    }
+  },
+  "errors": {
+    "required": "এই ক্ষেত্রটি আবশ্যিক",
+    "minChars": "ন্যূনতম {{count}}টি অক্ষর",
+    "mustBeAdult": "বয়স ১৮ বছর বা তার বেশি হতে হবে",
+    "invalidEmail": "অবৈধ ইমেইল ঠিকানা",
+    "storageUnavailable": "স্টোরেজ অনুপলব্ধ। এই ব্রাউজার সেশনে আপনার অগ্রগতি সংরক্ষিত হবে না।",
+    "exportFailed": "এক্সপোর্ট ব্যর্থ হয়েছে। আবার চেষ্টা করুন।",
+    "imageTooLarge": "ছবি ৫MB এর কম হতে হবে",
+    "imageInvalidType": "শুধুমাত্র JPG, PNG এবং WEBP ছবি সমর্থিত"
+  },
+  "toast": {
+    "restored": "স্বাগতম ফিরে! আপনার আগের ডেটা পুনরুদ্ধার করা হয়েছে।",
+    "saved": "অগ্রগতি সংরক্ষিত",
+    "exportSuccess": "আপনার বায়োডেটা ডাউনলোড হয়েছে।",
+    "exportError": "এক্সপোর্ট ব্যর্থ হয়েছে। আবার চেষ্টা করুন।",
+    "cleared": "সমস্ত ডেটা মুছে ফেলা হয়েছে।"
+  },
+  "language": {
+    "en": "English",
+    "bn": "বাংলা"
+  }
+}
