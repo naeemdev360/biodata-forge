@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Script from 'next/script';
 import {
   Cormorant_Garamond,
   Playfair_Display,
@@ -102,6 +103,18 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             <Toaster richColors position="top-right" />
           </TooltipProvider>
         </I18nProvider>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-GFEVX8L7N4"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-GFEVX8L7N4');
+          `}
+        </Script>
       </body>
     </html>
   );
